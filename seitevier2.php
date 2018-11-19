@@ -4,7 +4,7 @@
 		<title>php-Script 2</title>
 	</head>
 	<body>
-		<div></div>
+		<div>hallo123</div>
 <?php
 echo "Was geht Welt, alles fit bei dir";
 phpinfo();
