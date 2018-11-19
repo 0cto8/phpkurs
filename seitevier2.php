@@ -7,7 +7,6 @@
 		<div>hallo123</div>
 <?php
 echo "Was geht Welt, alles fit bei dir";
-phpinfo();
 ?>
 </body>
 </html>
